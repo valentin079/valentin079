@@ -26,3 +26,4 @@
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+[![Status Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin079&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
