@@ -1,4 +1,4 @@
-### Hello! I'm Emerson Valentin, student of the Information Systems course 👋
+### Hello! I'm Emerson Valentin, Information Systems course student👋
 
 
 
