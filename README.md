@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-valentin-3a937b229)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emerson.valentin9272@gmail.com)
+
 ### Data
 <div style="display: inline_block">
 	<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -13,8 +14,8 @@
  <img align="center" alt="datascience" src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge" />
 <img align="center" alt="machinelearning" src="https://img.shields.io/badge/Machine%20Learning-FF5733?style=for-the-badge" />
 <img align="center" alt="etl" src="https://img.shields.io/badge/ETL-27AE60?style=for-the-badge" />
-
 </div>
+
 ### Backend technologies:
 <div style="display: inline_block">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
