@@ -19,8 +19,10 @@
 </div>
 
 ### Cloud:
-<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<div>
+	<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+	<img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
 
 ### Backend technologies:
 <div style="display: inline_block">
