@@ -11,17 +11,14 @@
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 	<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img align="center" alt="datascience" src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge" />
 <img align="center" alt="machinelearning" src="https://img.shields.io/badge/Machine%20Learning-FF5733?style=for-the-badge" />
 <img align="center" alt="etl" src="https://img.shields.io/badge/ETL-27AE60?style=for-the-badge" />
 <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 ### Cloud:
 <div>
 	<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-	<img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### Backend technologies:
