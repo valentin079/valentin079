@@ -13,7 +13,7 @@
     <img align="center" alt="django-rest-framework" src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge" />
 </div>
 
-### Frontend technologies:
+### Frontend/mobile technologies:
 <div style="display: inline_block">
    	<img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 	<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />	
